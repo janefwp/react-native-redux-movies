@@ -1,0 +1,12 @@
+{
+  "name": "ReduxMovies",
+  "displayName": "ReduxMovies",
+  "expo": {
+    "name": "ReduxMovies",
+    "slug": "ReduxMovies",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
